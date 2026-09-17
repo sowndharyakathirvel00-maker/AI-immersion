@@ -1,0 +1,6 @@
+{
+  "name": "ShelfSense",
+  "description": "Smart Grocery Expiry & Food Waste Manager. Track groceries, predict food waste, suggest rescue recipes, and build sustainable kitchen habits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
